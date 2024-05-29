@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,39 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\antipasti.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\primi.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\seocndi piatti.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\dolci.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\salato.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\dolciiiii.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\focacce.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\antipasto di terra.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\antipasti di mare.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-removebg-preview.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
