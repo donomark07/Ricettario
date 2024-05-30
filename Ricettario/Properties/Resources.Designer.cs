@@ -153,9 +153,49 @@ namespace Ricettario.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap primi_di_pasta {
+            get {
+                object obj = ResourceManager.GetObject("primi di pasta", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap primi_risoooo {
+            get {
+                object obj = ResourceManager.GetObject("primi risoooo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap salato {
             get {
                 object obj = ResourceManager.GetObject("salato", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap secondi_di_carne {
+            get {
+                object obj = ResourceManager.GetObject("secondi di carne", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap secondi_di_pesceee {
+            get {
+                object obj = ResourceManager.GetObject("secondi di pesceee", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

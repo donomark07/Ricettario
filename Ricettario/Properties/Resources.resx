@@ -118,37 +118,49 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="antipasti" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\immagini\antipasti.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="antipasti di mare" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\immagini\antipasti di mare.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="focacce" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\immagini\focacce.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="dolci" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\immagini\dolci.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="salato" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\immagini\salato.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="dolciiiii" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\dolciiiii.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="seocndi piatti" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\immagini\seocndi piatti.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="back-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="antipasto di terra" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\immagini\antipasto di terra.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="secondi di carne" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\secondi di carne.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\immagini\back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="dolciiiii" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\immagini\dolciiiii.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="antipasti di mare" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\antipasti di mare.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="primi di pasta" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\primi di pasta.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="primi risoooo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\primi risoooo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="seocndi piatti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\seocndi piatti.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="primi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\immagini\primi.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="back-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\back-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="antipasto di terra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\antipasto di terra.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="salato" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\salato.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="antipasti" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\antipasti.jfif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="secondi di pesceee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\immagini\secondi di pesceee.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

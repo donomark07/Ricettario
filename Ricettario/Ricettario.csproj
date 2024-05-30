@@ -113,5 +113,17 @@
   <ItemGroup>
     <None Include="Resources\back-removebg-preview.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\primi risoooo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\primi di pasta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\secondi di carne.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\immagini\secondi di pesceee.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
